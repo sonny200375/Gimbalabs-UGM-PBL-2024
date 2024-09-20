@@ -1,2 +1,2 @@
-# Gimbalabs-UGM-PBL-2024
-This repository is delivery Project Based Learning Materials as part of Gimbalabs Indonesia and University of Gadjah Mada Blockchain Learning Management System and Proof of Participation Minting Platform Projects 
+# Gimbalabs-UGM-PBL-2024 Projects List Portofolio Proof of Participation
+This repository is Projects List Portofolio deliverable including but not limited to Andamio LMS Translation, Minimum Viable Product of Learning Management System and Proof of Completion Minting Platform Project, and other independent Project as part of Gimbalabs Indonesia and University of Gadjah Mada Blockchain Project Based Learning Program.
